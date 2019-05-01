@@ -1,3 +1,4 @@
 SHELL=/bin/sh
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 */5 * * * * shailesh /home/shailesh/reportScripts/runReports.sh
+*/5 * * * * shailesh /home/shailesh/reportScripts/runReports2.sh
